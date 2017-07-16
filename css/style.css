@@ -1,0 +1,29 @@
+.caja{
+    
+    background-color: #aeaeae;
+    margin: 10px;
+    box-shadow: 0 0 0px 6px black;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    width: 350px;
+    
+}    
+
+
+button{
+    
+    
+    position: absolute;
+    margin-left: 40px;
+}
+
+#texto{
+    padding-top: 30px;
+    margin-left: 40px;
+    color: red;
+    
+/*Coloco el display none para que no aparezca dentro del html hasta ser activado*/
+    
+    display: none;
+    
+}
